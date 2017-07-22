@@ -1,0 +1,23 @@
+{
+  "name": "electrode-mantra-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tan Khay Ong <khayong@gmail.com> (https://github.com/khayong)",
+  "license": "MIT",
+  "devDependencies": {
+    "electrode-archetype-njs-module-dev": "^2.2.0"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "recompose": "^0.24.0"
+  },
+  "peerDependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
