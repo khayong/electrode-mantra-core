@@ -14,7 +14,8 @@
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "recompose": "^0.24.0"
+    "recompose": "^0.24.0",
+    "redux": "^3.7.2"
   },
   "peerDependencies": {
     "react": "^15.6.1",
